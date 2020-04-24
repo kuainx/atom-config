@@ -1,0 +1,57 @@
+{
+	"*": {
+		"atom-beautify": {
+			"vue": {
+				"beautify_on_save": true,
+				"indent_inner_html": true,
+				"indent_scripts": "keep",
+				"indent_with_tabs": true,
+				"jslint_happy": true,
+				"keep_array_indentation": true,
+				"keep_function_indentation": true
+			}
+		},
+		"color-picker": {
+			"abbreviateValues": true,
+			"uppercaseColorValues": true
+		},
+		"core": {
+			"automaticallyUpdate": false,
+			"telemetryConsent": "no",
+			"uriHandlerRegistration": "always"
+		},
+		"editor": {
+			"showIndentGuide": true,
+			"softWrap": true,
+			"softWrapAtPreferredLineLength": true,
+			"tabLength": 4
+		},
+		"exception-reporting": {
+			"userId": "fd4a3918-c876-4ee1-b35d-81635b1b2d58"
+		},
+		"linter-ui-default": {
+			"showPanel": true
+		},
+		"minimap": {
+			"absoluteMode": true,
+			"adjustAbsoluteModeHeight": true,
+			"plugins": {
+				"highlight-selected": true,
+				"highlight-selectedDecorationsZIndex": 0,
+				"lens-mode": false,
+				"lens-modeDecorationsZIndex": 0
+			}
+		},
+		"sync-settings": {
+			"checkForUpdatedBackup": false,
+			"hiddenSettings": {},
+			"useOtherLocation": true
+		},
+		"sync-settings-folder-location": {
+			"folderPath": "E:\\~GITHUB\\atom-config"
+		},
+		"welcome": {
+			"showOnStartup": false
+		}
+	}
+}
