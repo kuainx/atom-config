@@ -48,7 +48,7 @@
 			"useOtherLocation": true
 		},
 		"sync-settings-folder-location": {
-			"folderPath": "E:\\~GITHUB\\atom-config"
+			"folderPath": "D:\\Github\\atom-config"
 		},
 		"welcome": {
 			"showOnStartup": false
